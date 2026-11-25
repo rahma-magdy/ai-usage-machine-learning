@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated datasets
+cleaned_AI_Usage.csv
+AI_Usage_feature_engineered.csv
+AI_Usage_encoded.csv
